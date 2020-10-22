@@ -1,7 +1,7 @@
 import pandas as pd
 
 JSON_FILE = "./rawcsv/jumpinJacks.json"
-labels = ['', 'down']
+labels = ['up', 'down']
 jsonValidatedName = 'validationJumpingJacks.json'
 
 
